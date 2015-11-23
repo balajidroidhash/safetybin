@@ -1,0 +1,75 @@
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Droidhash\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.xml
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\MainWindow.baml
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\Window1.baml
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\Items.g.cs
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\Window1.g.cs
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\App.g.cs
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.lref
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\Items.baml
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+E:\Lenevo backup (25-9-15)\D\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.xml
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\Telerik.Windows.Controls.xml
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\Telerik.Windows.Controls.Navigation.xml
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\Telerik.Windows.Data.xml
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\de\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\es\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\fr\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\it\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\nl\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\tr\Telerik.Windows.Controls.resources.dll
+D:\BodyBasics-WPF\obj\Debug\MainWindow.baml
+D:\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\BodyBasics-WPF\obj\Debug\App.g.cs
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+D:\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb
+D:\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+D:\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF_MarkupCompile.cache
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.g.resources
+C:\Users\Balaji\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe.config
+C:\Users\Balaji\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.exe
+C:\Users\Balaji\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\BodyBasics-WPF.pdb
+C:\Users\Balaji\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Balaji\Desktop\BodyBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.BodyBasics.Properties.Resources.resources
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.exe
+C:\Users\Balaji\Desktop\BodyBasics-WPF\obj\Debug\BodyBasics-WPF.pdb

@@ -1,0 +1,104 @@
+﻿<Window xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"  x:Class="Microsoft.Samples.Kinect.BodyBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:k="http://schemas.microsoft.com/kinect/2014"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        Closing="MainWindow_Closing" WindowState="Maximized" WindowStyle="None" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style x:Key="CategoryStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="15" BorderThickness="5" BorderBrush="Silver" Background="White" Margin="0,25,0,25" Padding="10,10,10,10">
+                            <ContentPresenter>
+
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ItemStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="Silver" Background="White" Margin="25,0,25,0" Padding="10,10,10,10">
+                            <ContentPresenter>
+
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="ItemSelectedStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border BorderBrush="Silver" Background="Red" Margin="25,0,25,0" Padding="10,10,10,10">
+                            <ContentPresenter>
+
+                            </ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>    
+    <k:KinectRegion x:Name="kinectRegion">
+        <Grid>
+            <Image Source="{Binding imageSource}" Stretch="None" />
+            
+            <ScrollViewer HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Disabled" CanContentScroll="True" k:KinectRegion.IsScrollInertiaEnabled="False" Width="1096" HorizontalAlignment="Right" Panel.ZIndex="1000">
+                <ItemsControl x:Name="Panel" ItemsSource="{Binding}" VerticalAlignment="Center">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel Orientation="Horizontal" Margin="75,50,75,0" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                            <Button Style="{StaticResource ItemStyle}" Click="Items_Click">
+                                <Image Source="{Binding Field1}" Width="150" Height="150"/>
+                            </Button>
+                                <TextBlock Text="{Binding Field2}" Background="Black" Foreground="White" Margin="25,0,25,0" Padding="5,5,5,5" HorizontalAlignment="Center" TextAlignment="Center" FontSize="12pt" Width="170" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </ScrollViewer>
+            
+            <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Hidden" CanContentScroll="True" k:KinectRegion.IsScrollInertiaEnabled="False" HorizontalAlignment="Left" Width="230">
+                <ItemsControl x:Name="Panel2" Background="#FF007BF5">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Vertical" Margin="10,10,10,10" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <Button x:Name="btnNecklace" Style="{StaticResource CategoryStyle}" Click="Button_Click">
+                        <Image Source="Images\Necklace\1.png" Width="100" Height="100" />
+                    </Button>
+                    <Button x:Name="btnLongNecklace" Style="{StaticResource CategoryStyle}" Click="Button_Click_1">
+                        <Image Source="Images\Long Necklace\1.png" Width="100" Height="100" />
+                    </Button>
+                    <Button x:Name="btnDoubleNecklace" Style="{StaticResource CategoryStyle}" Click="Button_Click_2">
+                        <Image Source="Images\Double Necklace\1.png" Width="100" Height="100" />
+                    </Button>
+                    <Button x:Name="btnOttiyanam" Style="{StaticResource CategoryStyle}" Click="Button_Click_3">
+                        <Image Source="Images\Ottiyanam\1.png" Width="100" Height="100" />
+                    </Button>
+                </ItemsControl>
+            </ScrollViewer>
+            
+            <Canvas>
+                <Image Name="imgNecklace" />
+                <Image Name="imgLongNecklace" />
+                <Image Name="imgDoubleNecklace" />
+                <Image Name="imgOttiyanam" />
+            </Canvas>
+        </Grid>
+    </k:KinectRegion>
+</Window>
